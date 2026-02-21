@@ -133,13 +133,14 @@
       "rating": 3.9
     }
   ],
-  "aggregations": {
-  "home": {
-    "count": 3,
-    "inventoryValue": 99257.04
-  },
-  "electronics": {
-    "count": 2,
-    "inventoryValue": 67567.38
+    "aggregations": {
+    "home": {
+      "count": 3,
+      "inventoryValue": 99257.04
+    },
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 67567.38
+    }
   }
 }
