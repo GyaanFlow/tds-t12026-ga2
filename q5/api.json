@@ -134,10 +134,12 @@
     }
   ],
   "aggregations": {
-    "home": {
-      "category": "electronics",
-      "count": 3,
-      "inventoryValue": 99257.04
-    }
+  "home": {
+    "count": 3,
+    "inventoryValue": 99257.04
+  },
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 67567.38
   }
 }
